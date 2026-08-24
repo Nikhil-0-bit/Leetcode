@@ -12,9 +12,6 @@ class Solution {
            a=0;
         }
         }
-        if(a<b){
-            return b;
-        }
-        return a;
+        return Math.max(a,b);
     }
 }

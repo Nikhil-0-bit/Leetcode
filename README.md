@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikhil-0-bit/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Nikhil-0-bit/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
